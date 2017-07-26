@@ -49,6 +49,7 @@ h5{
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	padding-right: 10px;
 }
 .main{
 	padding-top: 69px;
